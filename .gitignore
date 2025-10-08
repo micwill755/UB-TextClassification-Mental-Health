@@ -17,7 +17,6 @@ pip-delete-this-directory.txt
 *.json
 *.pkl
 *.h5
-data/
 datasets/
 
 # Models
